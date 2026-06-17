@@ -1,0 +1,15 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "Nguyen Huy Chien",
+    "email": "mrhuychien@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "huychien-skills",
+      "source": ".",
+      "description": "21 personal skills — Frappe/ERPNext v16 dev kit (nextcode-*), Vibecode product-build kit (vibecode-*), and Frappe knowledge packs (frappe-*).",
+      "version": "1.0.0"
+    }
+  ]
+}
